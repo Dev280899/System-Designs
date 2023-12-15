@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T17:47:29.526Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="22.1.8" etag="o6BsWBx6u83UfrHOzaxV" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T05:23:40.063Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="gjZDFIVpByWmhnOy7yM0" version="22.1.9" type="github">
   <diagram name="Page-1" id="bChGm6jLwcOpOLXwFeDs">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DaNwvMT5CMJ3vjh57-_K-1" value="Functional requirements&lt;br&gt;1 book ticket&lt;br&gt;2 see events&lt;br&gt;3 comments and reviews" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="10" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DaNwvMT5CMJ3vjh57-_K-2" value="Non Functional req.&lt;br&gt;1 available&lt;br&gt;2 scalable&lt;br&gt;2 falut taulerant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="10" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DaNwvMT5CMJ3vjh57-_K-3" value="Numbers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
