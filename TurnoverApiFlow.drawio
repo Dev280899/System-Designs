@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T12:28:19.409Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="23.1.7" etag="WcRrv8Ax3RPMCujbQnJw" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T12:47:14.190Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-CtAKM94diMA-o5O5RPo" version="23.1.7" type="github">
   <diagram name="Page-1" id="e5ZxIFvbzcqziII02Zja">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-1" value="New&lt;br&gt;USER" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-1" target="4pp_XBQMtqk-_yBS6bcf-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="70" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-260" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-1" target="4pp_XBQMtqk-_yBS6bcf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="310" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-260" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-5" value="Login" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="30" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-7" value="Register" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="520" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-9" target="4pp_XBQMtqk-_yBS6bcf-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-5" target="4pp_XBQMtqk-_yBS6bcf-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="105" as="sourcePoint" />
+            <mxPoint x="90" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-9" value="New User Validation To Register first" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-11" value="Email verification" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="265" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-13" target="4pp_XBQMtqk-_yBS6bcf-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="240" as="sourcePoint" />
+            <mxPoint x="320" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-5" target="4pp_XBQMtqk-_yBS6bcf-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="105" as="sourcePoint" />
+            <mxPoint x="363" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-13" value="UNVERIFIED USER :User Dropped from Registration witout verifying mail" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-16" target="4pp_XBQMtqk-_yBS6bcf-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="480" as="sourcePoint" />
+            <mxPoint x="320" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-7" target="4pp_XBQMtqk-_yBS6bcf-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="515" as="sourcePoint" />
+            <mxPoint x="323" y="360" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-16" value="Email verification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="535" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-20" target="4pp_XBQMtqk-_yBS6bcf-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="300" as="sourcePoint" />
+            <mxPoint x="590" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-19" value="Verified User.&lt;br&gt;User will be in logged in state&lt;br&gt;Auth token will be generated and sent in /verify-otp API itself." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4pp_XBQMtqk-_yBS6bcf-11" target="4pp_XBQMtqk-_yBS6bcf-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="325" as="sourcePoint" />
+            <mxPoint x="610" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4pp_XBQMtqk-_yBS6bcf-20" value="SUCCESS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
